@@ -30,5 +30,9 @@ namespace Ejercicios_HTML.Controllers
         {
             return View();
         }
+        public ActionResult Ejercicio4()
+        {
+            return View();
+        }
     }
 }
