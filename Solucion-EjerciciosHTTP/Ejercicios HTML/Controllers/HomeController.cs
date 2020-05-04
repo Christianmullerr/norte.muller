@@ -22,5 +22,13 @@ namespace Ejercicios_HTML.Controllers
         {
             return View();
         }
+        public ActionResult Ejercicio3()
+        {
+            return View();
+        }
+        public ActionResult Ejercicio3enun2()
+        {
+            return View();
+        }
     }
 }
