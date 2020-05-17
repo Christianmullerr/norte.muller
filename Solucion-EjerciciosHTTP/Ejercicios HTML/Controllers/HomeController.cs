@@ -63,5 +63,9 @@ namespace Ejercicios_HTML.Controllers
         {
             return View();
         }
+        public ActionResult Ejerciciocss2()
+        {
+            return View();
+        }
     }
 }
